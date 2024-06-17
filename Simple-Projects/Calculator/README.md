@@ -1,4 +1,4 @@
-# PyQt5 Calculator
+# Calculator
 
 ## About
 
@@ -53,6 +53,3 @@ This is a simple calculator desktop application developed using PyQt5 and Python
 
 Contributions are welcome! If you find any issues or have suggestions, please open an issue or submit a pull request on GitHub.
 
-## License
-
-This project is licensed under the MIT License. See the [LICENSE](LICENSE) file for more details.

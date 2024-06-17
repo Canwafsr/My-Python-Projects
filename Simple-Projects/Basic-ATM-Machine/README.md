@@ -68,6 +68,3 @@ This project is a desktop application that simulates basic ATM operations. After
 
 If you would like to contribute, please fork the repository and create a pull request. You can also use the issues section to report any bugs or make suggestions.
 
-## License
-
-This project is licensed under the MIT License. See the [LICENSE](LICENSE) file for more details.

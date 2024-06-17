@@ -7,3 +7,13 @@ This repository contains 100 simple projects I have created to improve my skills
 1. [Project 1: Basic-ATM-Machine]
 2. [Project 2: Calculator]
 3. [Project 3: ToDoList-App]
+
+
+
+## Contributing
+
+Contributions are welcome! If you find any issues or have suggestions, please open an issue or submit a pull request on GitHub.
+
+## License
+
+This project is licensed under the MIT License. See the [LICENSE](LICENSE) file for more details.

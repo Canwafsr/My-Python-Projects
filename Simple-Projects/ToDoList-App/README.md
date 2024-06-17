@@ -48,6 +48,3 @@ This project is a simple To Do List application developed using PyQt5 and Python
 
 If you would like to contribute to this project, please fork the repository and submit a pull request. For any issues or suggestions, feel free to open an issue.
 
-## License
-
-This project is licensed under the MIT License. See the [LICENSE](LICENSE) file for more details.
