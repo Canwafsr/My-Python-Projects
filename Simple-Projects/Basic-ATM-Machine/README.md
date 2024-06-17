@@ -1,5 +1,3 @@
-### README.md
-
 # Basic-ATM-Machine
 
 ![ATM Machine](images/login_image.png)
